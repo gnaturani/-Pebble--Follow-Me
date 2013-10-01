@@ -1,0 +1,51 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_ARROW_NOT_FOUND",
+            "type": "png-trans",
+            "file": "images/arrow_not_found.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_ROUND_FIRST",
+            "type": "png-trans",
+            "file": "images/arrow_round_first.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_ROUND_SECOND",
+            "type": "png-trans",
+            "file": "images/arrow_round_second.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_ROUND_THIRD",
+            "type": "png-trans",
+            "file": "images/arrow_round_third.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_BACK",
+            "type": "png-trans",
+            "file": "images/arrow_back.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_LEFT",
+            "type": "png-trans",
+            "file": "images/arrow_left.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_UP1",
+            "type": "png-trans",
+            "file": "images/arrow_up.png"
+        },
+        {
+            "defName": "IMAGE_ARROW_RIGHT",
+            "type": "png-trans",
+            "file": "images/arrow_right.png"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/followme.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
